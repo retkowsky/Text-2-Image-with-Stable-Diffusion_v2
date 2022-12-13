@@ -1,4 +1,4 @@
-Text 2 Image with Stable Diffusion v2
+# Text 2 Image with Stable Diffusion v2
 Stable Diffusion examples
 
 Python notebook
