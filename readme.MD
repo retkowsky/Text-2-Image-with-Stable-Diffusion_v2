@@ -8,8 +8,8 @@ The text-to-image models in this release can generate images with **default reso
 These models are trained on an aesthetic subset of the LAION-5B dataset created by the DeepFloyd team at Stability AI, which is then further filtered to remove adult content using LAION’s NSFW filter.
 
 
-Python notebook:
-<a href="about.html">Python notebook demonstration<a>
+Python notebook:<br>
+<a href="Stable Diffusion v2.ipynb">Python notebook demonstration<a>
 
 Some examples of generated images:
 <br><br>
