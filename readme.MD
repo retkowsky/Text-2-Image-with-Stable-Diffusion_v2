@@ -12,7 +12,8 @@ Python notebook:
 
 
 Some examples of generated images:
-
+<br>
+<img src="stable_diffusion_v2_examples.gif">
 
 13-Dec-2022
 
