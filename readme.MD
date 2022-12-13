@@ -9,7 +9,7 @@ These models are trained on an aesthetic subset of the LAION-5B dataset created 
 
 
 Python notebook:
-
+<a href="about.html">Python notebook demonstration<a>
 
 Some examples of generated images:
 <br><br>
